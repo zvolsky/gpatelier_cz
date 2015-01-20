@@ -1,0 +1,9 @@
+﻿<h3>VENKOVNÍ RESTAURACE KULTURNÍHO DOMU, Bílá Hora, Praha 6 – Řepy</h3>
+
+<div class="popis">
+Studie a projekt – návrh ve variantách, vypracování projektové dokumentace pro výběr zhotovitele<br />
+Objednatel : MČ Praha 17<br />
+Projekt : 08.2014 – 09.2014<br />
+Realizace : zahájení 02/2014<br />
+Spolupráce : S. Tanevská
+</div>
