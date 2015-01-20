@@ -1,0 +1,241 @@
+/* CSS Document */
+
+body {
+  width: 974px;
+  margin: auto;
+  font-family: Tahoma, Helvetica, Arial, Verdana, Geneva, Sans-serif;
+  font-size: 16px;
+  background-color: #eeeeff;
+  color: #000022;
+  }
+
+a {
+  white-space: nowrap;}
+
+#atelier {
+  float: left;
+  width: 582px;
+  margin-top: 12px;
+  }
+
+#atelier_logo {
+  width: 100%;
+  }
+  
+#atelier_udaje {
+  text-align: center;
+  }
+  
+#kontakt_jednatel {
+  width: 360px;  
+  float: left;
+  margin-left: 7px;
+  padding: 10px 5px 10px 5px;
+  background-color: #f4f4f4;
+  text-transform: uppercase;
+  font-size: small;
+  }
+
+#kontakt_jednatel_udaje {
+  /*background-color: #eeeeee;*/
+  padding: 2px 0 2px 0;
+  }
+
+#kontakt_email {
+  text-transform: none;
+  }
+
+#kontakt_jednatel p {
+  margin: 5px 0 5px 0;
+  }
+
+#kontakt_titul_jmeno {
+  font-weight: bold;
+  }
+
+#kontakt_telefon_predvolba {
+  font-size: smaller;
+  }
+    
+.nojs_link a {
+  text-decoration: none;
+  font-size: smaller;
+  color: #888888;
+  float: right;
+  }
+.nojs_link a:hover {
+  text-decoration: underline;
+  }
+
+#content {
+  background-color: #f4f4f4;
+  }
+#content_Chrome_vs_other {
+  clear: both;
+  padding: 30px;
+  }
+  
+table /*#vstupni nefunguje!*/ {
+  margin: 30px auto;
+  padding: 20px;
+  /*background-color: #eeeeee;*/
+  }
+
+td.cinnost_td {
+  padding: 14px;
+  }
+
+img.cinnost_img {
+  height: 100px;
+  }
+
+tr#cinnost_cviceni ul {
+  margin: 10px 0 0 0;
+  }
+  
+div#cviceni_kontakt {
+  margin: 10px 0 0 -8px;
+  }
+
+ul#cinnost_cviceni_ul p {
+  margin: 3px 0 3px 0;
+  font-size: small;
+  text-transform: uppercase;
+  }
+
+span#cviceni_telefon_predvolba {
+  font-size: smaller;
+  }
+
+span#cviceni_email {
+  text-transform: none;
+  }
+
+.left {
+  float: left;
+  }
+.right {
+  position: relative;
+  float: right;
+  }
+#vice_projektovani {
+  position: absolute;
+  top: 58px;
+  left: -20px;
+  }
+#vice_dozor {
+  position: absolute;
+  top: 79px;
+  left: -20px;
+  }
+#vice_cviceni {
+  position: absolute;
+  top: 140px;
+  left: -20px;
+  }
+
+/* životopis */
+/*table #cast_zivotopisu id--nefunguje! {
+  margin: 124px;
+  padding: 6px;*/
+  /*background-color: #eeeeee;*/
+  /*}*/
+
+div#content_zivotopis {
+  margin: auto;
+  }
+  
+div#content_zivotopis td {
+  padding: 5px 8px 5px 8px;
+  }
+
+div#content_zivotopis table {
+  width: 830px;
+  }
+
+col#obdobi {
+  width: 94px;
+  background-color: #b0b0ff;
+  }
+
+col#obsah {
+  background-color: #ddddff;
+  }
+
+/* činnosti */
+.skupinka {
+  margin: 4px;
+  padding: 3px 6px 3px 6px;
+  background-color: #eeeeff;
+  }
+
+ul.ul li a {
+  color: #0000aa;
+  }
+
+ul.ul li a:visited {
+  color: #1d1d55;
+  }
+
+a img {
+  border: 0;
+  }  /* pro IE */
+
+ul.level_single li {
+  margin: 0 0 1px 0;
+  padding: 2px 5px 2px 5px;
+  color: #2d2d33;
+  background-color: transparent;
+  }
+
+ul.level1 li {
+  margin: 10px 0 2px 0;
+  }
+ul.level2 li {
+  margin: 1px 0 1px 0;
+  }
+
+/* zakázané skriptování */
+div #no_scripting {
+  padding: 10px;
+  margin-bottom: 8px;
+  text-align: center;
+  font-size: small;
+  background-color: #ee66cc;
+  }
+
+div .no_scripting_img {
+  text-align: center;
+  }
+
+/* projekt/slider */
+/* div #body_projekt {background-color:#445;} */
+
+div .slider {
+  clear: both;
+  position: relative;
+  width: 934px;
+  margin: auto;
+  padding: 20px;
+  background-color: #8888aa;
+  display: none;
+  }
+
+div .scrollto {
+  position: absolute;
+  width: 45px;
+  height: 6px;
+  background-color: #bbb;
+  }
+
+div #scroll_slider {
+  left: 925px;
+  top: 5px; 
+  }
+div #scroll_popis {
+  left: 890px;
+  top: 5px; 
+  }
+
+div .fotorama {
+  }

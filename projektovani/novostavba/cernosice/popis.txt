@@ -1,0 +1,8 @@
+<h3>RODINNÝ DŮM ČERNOŠICE</h3>
+
+<div class="popis">
+Autor architektonické studie a odpovědný projektant projektu pro SP a tendrové dokumentace<br />
+Projekční práce : 2009-2010<br />
+SP Vydáno : 2010<br />
+Spolupráce : Ing.Andrejs, Ing. Kutil, Ing.Novák, Ing.Teršl
+</div>
