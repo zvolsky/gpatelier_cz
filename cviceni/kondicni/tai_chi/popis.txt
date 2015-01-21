@@ -1,0 +1,53 @@
+<h3>NABÍDKA PRAVIDELNÉHO CVIČENÍ TAI-CHI CHUAN, STYL JANG</h3>
+
+<div class="popis">
+Tai-chi chuan je čínské bojové umění s vynikajícími zdravotními účinky.<br />
+<h4>Kde a kdy cvičíme</h4>
+Po dobu školního roku tj. od září do konce června cvičíme<br />
+<b>v Praze 4 – Hrnčířích</b> každou <b>středu od 19:15</b>
+<span style="margin-left: 12px;"><a href="http://www.baracnickarychtahrncire.cz">www.baracnickarychtahrncire.cz</a></span>
+<br />
+a <b>ve Vestci u Prahy</b> každé <b>úterý od 19:00</b>.
+<span style="margin-left: 40px;"><a href="http://www.tjviktoriavestec.cz">www.tjviktoriavestec.cz</a></span>
+<br />
+Přes léto cvičíme venku.<br />
+<center><p><b>Cvičení je vhodné pro studenty, dospělé i seniory.</b></p></center>
+<p>Cvičíme styl tradice rodiny Tung/Dong a učíme se jej od Mistra Alexe Donga, zástupce 4.generace Mistrů tai-chi chuanu.</p>
+<!-- <a href="http://www.alexdongtaichi.com">www.alexdongtaichi.com</a> -->
+<center><img src="pic/tai_chi_symbol.jpg" width="185px" height="188px" style="margin: 14px 0 3px 0;"/></center>
+<center><small>Alex Dong, International Taijiquan Association, Praha, Česká republika</small><br /></center>
+<br />
+Začínáme s učením <b>tradiční dlouhé pomalé formy (cvičební sestavy) stylu Jang tzv.“Slow form“</b>,
+pravidelným cvičením získáme energii, uzdravíme tělo, duši, udržíme si mládí a chuť do života.<br />
+Do stylu Jang, linie Tung, patří mnoho dalších forem, více o nich najdete
+na stránkách <a href="http://www.taichichuan.cz/taichi_formy.htm">www.taichichuan.cz/taichi_formy.htm</a><br />
+<p align="center"><b>Nikdy není pozdě začít s cvičením tai-chi<br />
+a pokud člověka chytne, už jej nepustí!</b></p>
+<small>Pololetní kurzovné 2000,-Kč, senioři 1600,-Kč, jednotlivá hodina 150,-Kč.</small><br />
+<h4>Více o Tai-chi</h4>
+<p>Tai-chi je jednou z nejpropracovanějších metod integrovaného celotělového pohybu, který lidé dosud vytvořili
+  a pomáhá s uzdravením z mnoha nemocí. Cvičení je vhodné pro věkové kategorie od dětí, studentů po seniory.</p>
+<p>Tai-chi poznáme, když uvidíme lidi, jak dělají sérii tichých, plynulých, jednotlivých, ale na sebe navazujících pomalých pohybů.
+  Protože to vypadá tak mírumilovně a uvolněně, mnoho pozorujících lidí si myslí, že se cvičenci věnují nějaké meditaci.
+  Ti více vnímaví si ale všimnou, že se tyto ladné pohyby podobají kopům, úderům a sekům.
+  Je to proto, že tai-chi původně vzniklo v Číně jako velmi účinné bojové umění.
+  Různé styly se vyvinuly v konkrétních rodinách jako prostředek obrany a byly pojmenovány po svých zakladatelích.</p>
+<p>
+<h4>Význam slova Tai-chi chuan</h4>
+<p><b>Tai</b> doslova znamená veliký. Slovo <b>chi</b> vytváří význam slov největší, nejbohatší, nejhlubší.
+Takže spojení tchai-ťi znamená „maximálně největší“, „velké nejvyšší“ nebo „nejvyšší definitivní“.
+Pojem <b>chuan</b> znamená pěst nebo box, ale v širším slova smyslu znamená techniky bojového umění nebo to,
+co má co do činění se sebeobranou. Slovo chuan se také odkazuje na mimořádné fyzické a mentální schopnosti.<br />
+Spojením principů tai-chi chuan se zaměřujeme na to, jak optimalizovat stovky důležitých vztahů jinu a jangu uvnitř sebe samých.
+Toho dosahujeme pomocí technik vestoje a v pohybu.</p>
+<h4>Cíle a výsledky píle</h4>
+<p>Nejlépe <b>pravidelně docházet na hodiny tai-chi</b>, aby student zařadil cvičení do svého životního stylu.
+  <b>Naučit se pracovat s energií „čchi“</b> (čchi je životní síla, souvisí s krevním oběhem a je zároveň energií myšlenek a ducha).
+  <b>Poznat a pracovat s principy Jin&Jang. Naučit se jednotlivé pohyby, pochopil jejich smysl a umět je plynule zacvičit v sestavě/formě.
+  Správně držet tělo</b>, umět přenášet váhu – pracovat se svým těžištěm. <b>Zvládnout koordinaci pohybů</b>, kdy každá ruka provádí odlišný pohyb
+   – zároveň pracuje pas a každá noha zvlášť. Důležitý je také pohyb hlavou a očima. Nedělat pohyby příliš mnoho ani příliš málo
+  tzn. <b>naučit se nepřetěžovat klouby. Zlepšit svojí fyzickou i psychickou kondici. Zklidnit mysl, odreagovat se, uvolnit tělo.
+  Dosáhnout pocitu radosti a uspokojení.</b></p>
+</p>
+<small>Tai-chi chuan, Tchaj-ťi čchuan, Taiji Juan, Taijiquan - jsou názvy oficiální, povolené transkripce.</small>
+</div>

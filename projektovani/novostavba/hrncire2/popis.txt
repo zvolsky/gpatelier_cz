@@ -1,0 +1,7 @@
+<h3>RODINNÝ DŮM HRNČÍŘE 2</h3>
+
+<div class="popis">
+Autor studie, zpracovatel projektové dokumentace pro SP<br />
+Projekční práce : 2012 – 2013<br />
+Spolupráce : Ing.Andrejs, Ing.arch.,Ing. Andrejsová
+</div>

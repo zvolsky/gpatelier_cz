@@ -1,0 +1,7 @@
+<h3>RODINNÝ DŮM HRNČÍŘE 1</h3>
+
+<div class="popis">
+Autor studie, zpracovatel všech stupňů projektové dokumentace, autorský dozor<br />
+Projekční práce a realizace : 2002 – 2004<br />
+Projekt oceněn v roce 2005 cenou České spořitelny pro domy ze systému Porotherm
+</div>
