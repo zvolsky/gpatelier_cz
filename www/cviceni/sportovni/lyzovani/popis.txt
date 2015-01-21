@@ -1,5 +1,0 @@
-<h3>LYŽOVÁNÍ</h3>
-
-<div class="popis">
-<i>Stránka se připravuje</i>
-</div>

@@ -1,9 +1,0 @@
-<h3>REZIDENCE SKALKA, Přetlucká, Praha 10</h3>
-
-<div class="popis">
-<b>Projekt novostavby polyfunkčního objektu – bytového domu a administrativního objektu</b><br />
-Autor architektonického řešení, vedoucí projektant stupně ÚR a SP, podklady pro výběr zhotovitele<br />
-Projekční práce : 2011 - 2013<br />
-Předpokládaná realizace<br />
-Spolupráce : Projekční tým Gauff Praha ve stupni ÚR, Ing.Kutil ve stupni SP
-</div>

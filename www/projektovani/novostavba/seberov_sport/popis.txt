@@ -1,9 +1,0 @@
-<h3>SPORTOVIŠTĚ ŠEBEROV – VENKOVNÍ ČÁST, etapa I.</h3>
-
-<div class="popis">
-Urbanistická studie, projekt víceúčelového hřiště, tenisových kurtů, hřišť na beachvolejbal, hřiště na minigolf, včetně hygienického zázemí a občerstvení<br />
-Klient : MČ Praha - Šeberov<br />
-Projekční práce : 2011 – 2012<br />
-Realizace : 2012<br />
-Spolupráce : Ing.Andrejs
-</div>

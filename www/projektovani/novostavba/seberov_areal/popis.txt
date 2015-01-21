@@ -1,8 +1,0 @@
-<h3>SPORTOVIŠTĚ ŠEBEROV – VÍCEÚČELOVÝ SPORTOVNĚ-RELAXAČNÍ AREÁL</h3>
-
-<div class="popis">
-Urbanistická studie, projekt sportovního areálu s wellnes provozy a restaurací, navazujícího na zástavbu území areálem základní školy<br />
-Klient : MČ Praha - Šeberov<br />
-Projekční práce : 2011<br />
-Spolupráce : Ing.arch.,Ing. Andrejsová, Ing.Kutil
-</div>

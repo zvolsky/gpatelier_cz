@@ -1,7 +1,0 @@
-<h3>NABÍDKA ZDRAVOTNÍHO CVIČENÍ SESTAVENÉHO NA MÍRU</h3>
-
-<div class="popis">
-Zdravotní cvičení nám pomáhá předcházet nejrůznějším psycho-somatickým poruchám získáním adekvátních a optimálních pohybových návyků a eliminovat tak důsledky negativního životního stylu.<br />
-<br />
-<i>Stránka se připravuje.</i>
-</div>

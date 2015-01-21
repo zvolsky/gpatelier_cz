@@ -1,9 +1,0 @@
-<h3>VÝŽIVOVÉ PORADENSTVÍ</h3>
-
-<div class="popis">
-V rámci kondičního cvičení je nabízeno poradenství správné výživy a životního stylu.<br />
-<b>„Nechť je lék potravou a potrava lékem“</b> Hippokrates<br />
-<b>„Zdravý životní styl = rovnováha mezi pohybem a výživou“</b><br />
-<br />
-<i>Stránka se připravuje.</i>
-</div>

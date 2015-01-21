@@ -1,7 +1,0 @@
-<h3>SPORTOVNÍ KLUB Praha – Křeslice</h3>
-
-<div class="popis">
-Studie a projekt sportovního klubu, projekt pro ÚR a SP<br />
-Projekční práce : 2011-2012<br />
-Spolupráce : Ing.Kutil, Ing.Novák
-</div>

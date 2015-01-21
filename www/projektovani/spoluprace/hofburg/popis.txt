@@ -1,8 +1,0 @@
-<h3>VÍDEŇSKÉ CÍSAŘSKÉ SÍDLO HOFBURG</h3>
-
-<div class="popis">
-Projekt komplexní přestavby a modernizace komplexu sídla vídeňského císařského sídla Hofburg, spolupráce v atelieru Prof. M. Wehdorna ve Vídni, zástupce vedoucího projekčního týmu pod vedením Mag.arch. Kiekenapa<br />
-Projekční práce : 1993 – 1996<br />
-Autor architektonického řešení vstupu Zimní jezdecké školy, Hofburg<br />
-Projekční práce : 1994
-</div>

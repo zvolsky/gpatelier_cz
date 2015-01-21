@@ -1,8 +1,0 @@
-<h3>PŘÍSTAVBA SKLADOVÉ HALY HÖRMANN, Středokluky</h3>
-
-<div class="popis">
-Klient : Planungsbüro Wagner, St,Wendel, Německo<br />
-Inženýrská činnost - vyřízení ÚR a SP podle projektu Planungsbüro Wagner<br />
-Projekční práce : 2011<br />
-Výkon technického dozoru : 2012
-</div>
