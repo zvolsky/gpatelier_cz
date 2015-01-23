@@ -4,6 +4,9 @@
 # render_pages.py - generuje vzájemně podobné html stránky
 #   python 2.7
 
+# spoustet z (root)/sablony - viz i níže
+# pro dodělávání nových staveb mám dočasně přejmenováno na popis2.txt - jen ty se generují - pak přejmenuji na popis.txt 
+
 import sys
 sys.path.append('c:\python27\Lib\site-packages\web2py')   # web2py
 
