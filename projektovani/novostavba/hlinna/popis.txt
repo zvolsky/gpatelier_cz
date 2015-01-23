@@ -1,0 +1,7 @@
+<h3>RODINNÝ DŮM HLINNÁ U LITOMĚŘIC</h3>
+
+<div class="popis">
+Autor architektonické studie a odpovědný projektant projektu pro SP<br />
+Projekční práce : 2010<br />
+Spolupráce : Ing.Andrejs, Ing. Kutil, Ing.Novák, Ing.Teršl
+</div>

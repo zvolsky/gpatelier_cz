@@ -1,0 +1,22 @@
+<h3>REZIDENCE SKALKA, Přetlucká, Praha 10</h3>
+
+<div class="popis">
+<b>Projekt novostavby polyfunkčního objektu – bytového domu a administrativního objektu</b><br />
+Vedoucí projektant<br /> 
+Vypracování dokumentace pro provedení stavby a architektonických detailů, spolupráce při výběru zhotovitelů vybraných částí stavby<br /> 
+Autorský dozor, klientské změny<br />
+<br />
+Objednatel : Rezidence Skalka, s.r.o.<br />
+Projekční práce na ÚR a SP : 2011 – 2013<br />
+Realizace stavby : 02.2014 – 04.2015<br />
+Předpokládaný termín kolaudace : duben 2015<br />
+<br />
+Spolupráce DPS :<br />
+<div class="odsadit">
+ Ing.Kutil – stavebně konstrukční část<br />
+ Ing.arch.Benedová – vizualizace<br />
+ Ing.Šatava – statika<br />
+ Ing.Schindler – ústřední vytápění<br />
+ Ing.Hocke - přípojky<br />
+</div>
+</div>
