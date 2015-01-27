@@ -1,9 +1,0 @@
-<h3>BYTOVÝ DŮM ŠEBEROV, ulice K Hrnčířům / Novákova, Praha 4</h3>
-
-<div class="popis">
-Architektonické řešení, projekt pro stavební povolení.<br />
-Projekční práce : 2012-2013<br />
-Předpokládaná realizace : 2014-2015<br />
-Předpokládané stavební náklady : 20 mil Kč<br />
-Spolupráce : Ing.Andrejs, Ing.arch.,Ing. Andrejsová
-</div>
